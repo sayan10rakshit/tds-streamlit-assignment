@@ -4,8 +4,6 @@ st.write("""
 # Even or Odd Check
 """)
 
-# def evaluate()
-
 input = st.number_input("Enter a number", step=1)
 
 if st.button('Check'):
